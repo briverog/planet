@@ -1,2 +1,3 @@
 # planet
 studying the planets...
+Mars and Venus done
